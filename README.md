@@ -10,6 +10,7 @@ Uniserver applikáció:
 https://sourceforge.net/projects/miniserver/files/
 
 Adatbázis kezelő szoftverek, ezek közül izlés szerint lehet válogatni:
+
 https://www.heidisql.com/
 https://www.oracle.com/tools/downloads/sqldev-v192-downloads.html
 https://dbeaver.io/
